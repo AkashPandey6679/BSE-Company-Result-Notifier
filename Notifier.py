@@ -1,8 +1,8 @@
 import requests
 import time
 
-BOT_TOKEN = "8749398035:AAHNbWVU1UiuZnStD_8QmVRfitOYjELbUUo"
-CHAT_ID = "-1003949505836"
+BOT_TOKEN = "BOT TOKEN"
+CHAT_ID = "CHAT ID"
 
 
 BSE_URL = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
